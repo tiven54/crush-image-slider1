@@ -11,3 +11,4 @@ document.addEventListener('keydown', (e) => {
   }
   slider.style.transform = `rotateY(${angle}deg)`;
 });
+
